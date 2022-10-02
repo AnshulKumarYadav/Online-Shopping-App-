@@ -1,5 +1,5 @@
 
-# [Online-Shopping-App Project]
+# Online-Shopping-App Project
 
 Hi World !🌏
 We were a team of 6 member from the Masai Web-17 batch. We worked on creating REST API and writing business logic for an E-commerce application.
@@ -44,4 +44,13 @@ Our project performs fundamental operations of an e-commerce website, where our 
 - Postman
 - Swagger UI
 
+
+## Documentation
+
+[Swagger UI API Documentation Online Shopping App.pdf](https://github.com/premsg1610/Online-Shopping-App-/files/9387667/Swagger.UI.API.Documentation.Online.Shopping.App.pdf)
+
+
+## Project Presentation
+
+[Online Shopping PPT.pptx](https://github.com/premsg1610/Online-Shopping-App-/files/9384553/Online.Shopping.PPT.pptx)
 
